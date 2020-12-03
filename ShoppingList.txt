@@ -7,3 +7,6 @@ perk
 orange mittai
 gems
 milky bar
+ice cream 
+dark chocolate
+
